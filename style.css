@@ -224,22 +224,27 @@ section.active-section {
 
 .post[data-bg-color="blue"] {
     background-color: #4361ee;
+color: black;
 }
 
 .post[data-bg-color="green"] {
     background-color: #2e7d32;
+color: black;
 }
 
 .post[data-bg-color="purple"] {
     background-color: #6a1b9a;
+color: black;
 }
 
 .post[data-bg-color="red"] {
     background-color: #c62828;
+color: black;
 }
 
 .post[data-bg-color="orange"] {
     background-color: #ef6c00;
+color: black;
 }
 
 .post:hover {
